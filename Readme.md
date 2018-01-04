@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v4.4-blue.svg?style=flat)
+[![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![Release](https://img.shields.io/badge/Release-v5.0-blue.svg?style=flat)
 
 ## Overview
 
@@ -52,6 +52,7 @@ The easiest way to install ONLYOFFICE Document Server is to use the Docker image
 
 * [Compiling ONLYOFFICE Document Server for a Local Server](http://helpcenter.onlyoffice.com/server/linux/document/compile-source-code.aspx "Compiling ONLYOFFICE Document Server for a Local Server")
 * [Installing ONLYOFFICE Document Server Linux Version](http://helpcenter.onlyoffice.com/server/linux/document/linux-installation.aspx "Installing ONLYOFFICE Document Server Linux Version")
+* [Installing ONLYOFFICE Document Server Windows Version](http://helpcenter.onlyoffice.com/server/windows/document/install-office-apps.aspx "Installing Document Server for Windows on a Local Server")
 * [Installing ONLYOFFICE Document Server Docker Version](http://helpcenter.onlyoffice.com/server/docker/document/docker-installation.aspx "Installing ONLYOFFICE Document Server Docker Version")
 
 ## User Feedback and Support
